@@ -1,7 +1,7 @@
 set(TARGET_NAME vww)
 
-set(CMAKE_C_COMPILER "gcc")
-set(CMAKE_CXX_COMPILER "g++")
+# set(CMAKE_C_COMPILER "gcc")
+# set(CMAKE_CXX_COMPILER "g++")
 set(CMAKE_AR "ar")
 set(CMAKE_RANLIB "ranlib")
 set(CMAKE_STRIP "strip")
